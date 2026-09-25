@@ -20,7 +20,7 @@
 🧠 I have a strong interest in backend development, software engineering, signal processing, and biomedical image processing
 
 🌐 Socials:
-LinkedIn email
+LinkedIn email : https://www.linkedin.com/in/vasim-akram-sd/
 
 💻 Tech Stack:
 C Fortran CSS3 HTML5 JavaScript Java Python Bash Script Windows Terminal ReScript .Net Angular.js Flask Flutter Express.js Bootstrap Angular FastAPI NodeJS OpenCV React React Native Neo4J SQLite MicrosoftSQLServer GitHub GitLab Git
