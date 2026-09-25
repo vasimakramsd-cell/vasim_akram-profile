@@ -29,5 +29,12 @@ C Fortran CSS3 HTML5 JavaScript Java Python Bash Script Windows Terminal ReScrip
 
 [ReadMe (1).md](https://github.com/user-attachments/files/32665772/ReadMe.1.md)
 
+
+📫 Connect With Me 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vasim-akram-sd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasimakramsd@gmail.com) 
+
+
+
 ⭐️ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey in Java Full Stack Development, Backend Engineering, and Software Development.
 
