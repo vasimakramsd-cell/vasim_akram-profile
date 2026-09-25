@@ -1,4 +1,4 @@
-# vasim_akram-profile
+# vasim_akram
 # 💫 About Me:
 🔭 I'm currently working on Java full-stack and backend development projects<br><br>🌱 I'm continuously learning about Java, Spring Boot, REST APIs, databases, and modern software development<br><br>💡 I enjoy building practical systems that solve real-world problems and improving my programming and problem-solving skills<br><br>🧠 I have a strong interest in backend development, software engineering, signal processing, and biomedical image processing
 
