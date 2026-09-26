@@ -13,7 +13,6 @@
 ![](https://streak-stats.demolab.com/?user=vasimakramsd-cell&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vasimakramsd-cell&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 🧠 I have a strong interest in backend development, software engineering, signal processing, and biomedical image processing
